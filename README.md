@@ -1,1 +1,1 @@
-# staging.app-analytics.snapchat.com
+# hackwithsiddhesh.jp
